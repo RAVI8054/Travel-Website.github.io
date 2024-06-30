@@ -199,8 +199,10 @@ navbar a:link,
 }
 /* ########### footer ####### */
 .footer{
-    background: #263238;
-    color: #f4f4f4;
+     /* background: #263238; */
+    /* color: #f4f4f4; */
+    background: light gray;
+    columns: black;
     padding: 2rem;
     text-align: center;
 }
