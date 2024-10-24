@@ -14,4 +14,4 @@ Travel-website is the name of the project. It describes the whole project in one
   - I making this project with help of HTML and CSS only.
 
 - WHAT features, technical things you had implemented ?
-  - I implemented only html and css feature. Its included samantic tags for better understanding of others and. And in css part i used class for styling.
+  - I implemented only html and css feature.Its included samantic tags for better understanding of others and. And in css part i used class for styling.
